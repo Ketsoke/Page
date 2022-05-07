@@ -7,3 +7,7 @@ enableEmoji = true
 title = 'My Simple Page'
 author = 'Ketsoke'
 description = 'A simple blog website in github'
+profilePicture = "images/profile_pic.jpg"
+mainSections = ["blog"]
+twitter_cards = true # Enable twitter cards if true
+images = ["img/TwitterCard.png"] # Twitter card png
