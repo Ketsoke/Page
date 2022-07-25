@@ -6,7 +6,7 @@ enableEmoji = true
 [params]
 title = 'My Simple Page'
 author = 'Ketsoke'
-description = 'A simple blog website in github'
+description = 'A simple blog website in github written by Subin'
 profilePicture = "images/profile_pic.jpg"
 mainSections = ["blog"]
 twitter_cards = true # Enable twitter cards if true
